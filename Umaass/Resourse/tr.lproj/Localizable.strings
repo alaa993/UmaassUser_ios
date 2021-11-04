@@ -1,0 +1,416 @@
+/* 
+  Localizable.strings
+  Umaass
+
+  Created by Hesam on 7/28/1398 AP.
+  Copyright © 1398 Hesam. All rights reserved.
+*/
+
+"countryFilter" = "Ülke";
+"phone number"= " Cep Telefonu";
+"Salon Specialty" = "Uzmanlık";
+"Suggest Salon" = "önerilen sahip";
+"Salon name"="Salon Adı";
+
+
+"Send" = "Gönder";
+"splashAppName" = "Umass";
+"onlineBooking" = "Online Rezervasyon";
+"version" = "version";
+"registName" = "İsim";
+"registEmail" = "E-posta isteğe bağlı)";
+"registGender" = "Cinsiyet";
+"bookNow" = "Şimdi Rezervasyon Yapın";
+"firstApptLab" = "First Exist Appt";
+
+"Please first select the country"="Lütfen önce ülkeyi seçin ";
+
+"country"="Ülke (Opsiyonel)";
+"city optional"="İl (Opsiyonel)";
+"submit"="Sunmak";
+"Login" = "Oturum aç";
+"Register" = "Kayıt ol";
+"Enter your mobile number" = "telefon numaranızı girin";
+"Your number is being verified" = "Numaranız doğrulanıyor";
+"Enter the code that was sent to you" = "Size gönderilen kodu girin";
+"Use a message sms" = "Mesaj sms kullanın";
+"whatsapp" = "Naber";
+"I haven't received a code" = "Bir kod almadım";
+"Continue" = "Devam et";
+
+"all" = "herşey";
+"Electrician" = "Elektrikçi";
+"Blacksmith" = "Demirci";
+"Carpentry" = "Marangozluk";
+"paint" = "boya";
+"Moving furniture" = "Ev eşyalarını taşımak";
+"sell and buy" = "sat ve al";
+"Cleaning works" = "Temizlik işleri";
+"Cameras" = "Kameralar";
+"Satellite technician" = "Uydu teknisyeni";
+"Mobile Maintenance" = "Mobil Bakım";
+"Computer Maintenance" = "Bilgisayar Bakımı";
+
+"book" = "kitap";
+"Appointments" = "Randevular";
+"profile" = "Profil";
+"Edit profile" = "Profili Düzenle";
+
+"about us" = "Hakkımızda";
+"Contact us" = "Bize Ulaşın";
+
+"log out" = "Çıkış Yap";
+"gallery" = "Fotoğraf Galerisi";
+"Address" = "Adres";
+"location" = "Harita";
+"comments" = "Yorumlar";
+"working hours" = "Çalışma saatleri";
+"hours" = "Saatler";
+"about" = "hakkında";
+"Services" = "Hizmetler";
+"Book now" = "Şimdi rezervasyon yap";
+"Next" = "Sonraki";
+
+"for anothers" = "diğerleri için";
+"For me" = "Kendim için kitap";
+"phone" = "numara";
+"Full Name" = "Ad Soyad";
+"Gender" = "Cinsiyet";
+"description" = "Açıklama";
+"Service" = "Hizmet";
+"Rules" = "Kurallar";
+"Agree" = "Katılıyorum";
+"Back" = "Geri";
+
+"Date appointment" = "randevu tarihi";
+"time appointment" = "buluşma zamanı";
+"information" = "bilgi";
+"Edit" = "Düzenle";
+"Cancel" = "İptal etmek";
+"Select city" = "Şehir seç";
+"Near me" = "Bana yakın";
+"City" = "Kent";
+"unlimit" = "sınırsız";
+"clear" = "açık";
+"Filter" = "Filtrele";
+"Name" = "İsim";
+"Email" = "E-posta";
+"industry / Section" = "endüstri / Bölüm";
+"your business" = "senin işin";
+"your bio" = "biyografin";
+
+
+"set your business hours" = "iş saatlerinizi ayarlayın";
+"add the services you offer" = "sunduğunuz hizmetleri ekleyin";
+"time duration" = "zaman aralığı";
+"price" = "fiyat";
+"description" = "açıklama";
+
+"Add  services" = "Hizmet ekle";
+"Add your staff" = "Personelinizi ekleyin";
+"user name" = "Kullanıcı adı";
+"chosse Roll" = "Chosse Rulo";
+"permission" = "izin";
+"staff" = "Personel";
+"Edit industry" = "Sektörü düzenle";
+"About Service" = "Hizmet Hakkında";
+"noService" = "Servis yok";
+
+"Online booking" = "Online rezervasyon";
+"Version" = "Sürüm";
+"optional" = "isteğe bağlı";
+"No item" = "Eşya yok";
+"First exist Appointment" = "İlk var Randevu";
+"Setup, only takes a moment, you'll be booking appointments in no time." = "Kurulum, sadece bir dakikanızı alır, hiç vakit kaybetmeden randevu alacaksınız";
+
+"Category Expertise" = "Kategori Uzmanlığı";
+
+"rating" = "değerlendirme";
+"comment" = "yorum Yap";
+"Provider Time Schedule" = "Sağlayıcı Zaman Çizelgesi";
+"Saturday" = "Cumartesi";
+"Sunday" = "Pazar";
+"Monday" = "Pazartesi";
+"Tuesday" = "Salı";
+"Wednesday" = "Çarşamba";
+"Thursday" = "Perşembe";
+"Friday" = "Cuma";
+"date" = "Tarih";
+"time" = "Zaman";
+
+"Cancel appointment" = "Randevu iptal";
+"Applicant Name" = "Başvuranın ismi";
+"Client Name" = "Müşteri Adı";
+"Phone number" = "numara";
+"Book id" = "Kitap kimliği";
+
+"cancel" = "İptal etmek";
+"First time that confirmed for you" = "Senin için ilk kez doğrulandı";
+"Language" = "Dil";
+"Select language" = "Dil Seçin";
+"My favorite" = "Benim favorim";
+
+"Who we are" = "Biz Kimiz";
+"Call now" = "Whatsapp ile ara";
+"home" = "Ev";
+"Booking list" = "Rezervasyon listesi";
+"Online system appointment" = "Online sistem randevusu";
+"Business phone" = "İş telefonu";
+
+
+"Select your industry" = "Sektörünüzü seçin";
+"Wellcome to Umaass Provider" = "Snabul Sağlayıcısına Hoş Geldiniz";
+"We'll get you booking appointments in no time Next" = "Size en kısa sürede randevu alacağız Sonraki";
+"category" = "Kategori";
+"Done" = "Bitti";
+"Let your customers know when you're open" = "Müşterilerinize ne zaman açık olduğunuzu bildirin";
+"Don't worry - you'll be able to edit these later" = "Endişelenmeyin - bunları daha sonra düzenleyebileceksiniz";
+"Service Name" = "hizmet adı";
+"Service Price" = "Hizmet Fiyatı";
+"Service Time Duration" = "Servis Süresi Süresi";
+"permission" = "izin";
+"Delete" = "Sil";
+"request" = "istek";
+"File preview" = "Dosya önizleme";
+"setting" = "ayar";
+"Today " = "Bugün";
+"Select date" = "Tarih seç";
+"Suggestion appointments" = "Öneri randevuları";
+"Start date" = "Başlangıç ​​tarihi";
+"End date" = "Bitiş tarihi";
+"Switch industry" = "Sektör değiştir";
+
+
+"Edit Industry" = "Sektörü Düzenle";
+"Manage Your Staff" = "Personelinizi Yönetin";
+"you can always edit these" = "bunları her zaman düzenleyebilirsin";
+"Update location" = "Konumu güncelle";
+"title" = "Başlık";
+"More details" = "Daha fazla detay";
+"customer" = "müşteri";
+"status" = "statü";
+"Tomorrow" = "Yarın";
+"Select date" = "Tarih seç";
+"User Files Preview" = "Kullanıcı Dosyaları Önizlemesi";
+"" = "";
+"" = "";
+
+
+
+
+
+// *********************************** message ****************************************
+"Warrning" = "Uyarı";
+"Successful" = "Başarılı";
+"Image" = "Resim";
+"location" = "Sağlayıcı Konumu";
+"SetDate" = "Tarih ayarla";
+"UserInformation" = "Kullanıcı bilgisi";
+"SubmitAppoinment" = "Randevu Gönder";
+"Rating" = "Değerlendirme";
+"myAppoinment" = "Randevum";
+"appointmentDetails" = "Randevu Detayları";
+"editApptInfo" = "Appt Bilgilerini Düzenle";
+"editAdminProfile" = "Yönetici Profilini Düzenle";
+"aboutUs" = "Hakkımızda";
+
+
+
+"The user has not register yet" = "Kullanıcı henüz kayıt olmadı";
+"Invalid data" = "Geçersiz veri";
+"Not registered" = "Kayıtlı değil";
+"Ok" = "Tamam";
+"Please Enter Your Number" = "Lütfen Numaranızı Giriniz";
+"Select your Gender" = "Cinsiyetinizi seçiniz";
+"registration Successful" = "Kayıt başarılı";
+"The email has already been taken" = "o e-posta çoktan alındı";
+"The phone has already been taken" = "o telefon çoktan alındı";
+"something went wrong" = "bir şeyler yanlış gitti";
+"male" = "Erkek";
+"female" = "Kadın";
+"Successfully Done" = "Başarıyla tamamlandı";
+"Unauthenticated! Please log out and login again" = "Kimliği doğrulanmadı! Lütfen çıkış yapın ve tekrar giriş yapın";
+"Wrong access token" = "rong erişim belirteci";
+"message" = "İleti";
+"Successfully Add to favorite" = "Sık kullanılanlara başarıyla ekle";
+"Provider Details" = "Sağlayıcı Ayrıntıları";
+"Search your provider" = "Sağlayıcınızı arayın";
+"Provider Name" = "Sağlayıcı Adı";
+
+"enter your provider name" = "sağlayıcı adınızı girin";
+"Please select your service" = "Lütfen hizmetinizi seçin";
+"Start location" = "Konumu başlat";
+"destination" = "hedef";
+"Please enter correct date" = "kira doğru tarihi girin";
+"Your Booking Time" = "Rezervasyon Zamanımız";
+"User Information" = "Kullanıcı bilgisi";
+"set date" = "Tarih ayarla";
+"submit appot" = "randevu göndermek";
+
+"Enter your name" = "Adınızı giriniz";
+"Enter your phone" = "Telefonunuzu girin";
+"your Appointment Successfully Submitted" = "Randevunuz Başarıyla Gönderildi";
+
+
+
+
+
+
+
+"This appointment not valid" = "Bu randevu geçerli değil";
+"Your Rate Successfully Sent" = "Puanınız Başarıyla Gönderildi";
+"Appointment Details" = "Randevu Detayları";
+"Do you want to cancel this appointment" = "Bu randevuyu iptal etmek istiyor musunuz";
+
+"Successfully Canceled" = "Başarıyla İptal Edildi";
+
+
+"Appointment date is expired. Please enter correct date" = "Randevu tarihinin süresi doldu. Lütfen doğru tarihi girin";
+
+"Enter client name" = "Müşteri adını girin";
+"Enter client number" = "Müşteri numarasını girin";
+"Select client gender" = "Müşterinin cinsiyetini seçin";
+"Your Appointment Successfully Updated" = "Randevunuz Başarıyla Güncellendi";
+"Are you sure logout your account" = "Hesabınızdan çıkış yaptığınızdan emin misiniz?";
+
+
+"Unauthenticated" = "Kimliği doğrulanmamış";
+"Successfully favorite" = "Başarıyla favori";
+"Successfully Unfavorite" = "Başarıyla Favorilerden Çıkar";
+"Photo Source" = "Fotoğraf Kaynağı";
+"Photo Library" = "Fotoğraf kütüphanesi";
+"Choose Images" = "Resimleri Seçin";
+"Your image size must less than 5 MB" = "Resminizin boyutu 5 MB'tan küçük olmalıdır";
+
+
+"Edit Admin Profile" = "dit Yönetici Profili";
+"Your profile Successfully Updated" = "Profiliniz Başarıyla Güncellendi";
+"Enter your business Title" = "İşletme unvanınızı girin";
+"Enter your city" = "Şehrinizi girin ";
+"Enter your business address" = "İşletme adresinizi girin";
+"start time is empty" = "başlangıç ​​zamanı boş";
+"end time is empty" = "bitiş zamanı boş";
+
+"please set your working hours" = "lütfen çalışma saatlerinizi ayarlayın";
+"your industry Successfully Save! and Now you can define Your Services and your staff" = "Sektörünüzü Başarıyla Kaydedin! ve Artık Hizmetlerinizi ve personelinizi tanımlayabilirsiniz";
+
+
+"Your phone is incorrect" = "Telefonunuz yanlış";
+"Your address is incorrect" = "Adresiniz yanlış";
+"Your working hours is incorrect" = "Çalışma saatleriniz yanlış";
+
+
+"Your title is incorrect" = "Başlığınız yanlış";
+"Your city is incorrect" = "Şehriniz yanlış";
+"Enter service name" = "Hizmet adını girin";
+"Enter service price" = "Hizmet fiyatını girin";
+"Enter service time duration" = "Servis süresi süresini girin";
+"do you want to delete this service" = "bu servisi silmek istiyor musun";
+"your services create successfully" = "hizmetleriniz başarıyla oluşturuyor";
+"do you want to delete this staff" = "bu personeli silmek istiyor musun";
+"Enter your staff name" = "Personel adınızı girin";
+
+"Enter your staff number" = "Personel numaranızı girin";
+"Enter your staff roll" = "Personel listenizi girin";
+
+
+"Your Staff Data Saved! Now you can manage your appointment and other settings" = "Personel Verileriniz Kaydedildi! Artık randevunuzu ve diğer ayarlarınızı yönetebilirsiniz";
+"your Staff phone is incorrect! Please edit staff phone number" = "Personel telefonumuz yanlış! Lütfen personelin telefon numarasını düzenleyin";
+"do you want to delete this staff" = "bu personeli silmek istiyor musun";
+"no Date selected" = "Tarih seçilmedi";
+
+"To see or edit Appointment file preview, the Appointment should to be in done status" = "Randevu dosyası önizlemesini görmek veya düzenlemek için Randevu tamamlanmış durumda olmalıdır";
+"File Preview Successfully Updated" = "Dosya Önizlemesi Başarıyla Güncellendi";
+"Are you sure to delete item" = "Öğeyi silmek istediğinden emin misin";
+"Your image Successfully Deleted" = "Resminiz Başarıyla Silindi";
+"Your image Successfully Uploaded" = "Resminiz Başarıyla Yüklendi";
+"your Staff phone is incorrect" = "Personel telefonunuz yanlış";
+"Edit Admin Profile" = "Yönetici Profilini Düzenle";
+"you must change status and then save" = "durumu değiştirmeli ve sonra kaydetmelisiniz";
+"you must confirmed the request" = "";
+"There is no data" = "Veri yok";
+"Do you want to reject this Appointment" = "Bu randevuyu reddetmek istiyor musunuz";
+"Successfully rejected" = "Başarıyla reddedildi";
+"provider location" = "Sağlayıcı konumu";
+"" = "";
+"" = "";
+
+
+"minute" = "min";
+"$" = "";
+"set Date" = "Tarih ayarla";
+"submit appointment" = "Randevu gönder";
+"yes" = "Evet";
+"no" = "Hayır";
+"confirmed" = "onaylanmış";
+"no show" = "gösteri yok";
+"pending" = "Bekliyor";
+"from date" = "itibaren";
+"from time" = "zamandan";
+"confirmed date" = "teyit edilmiş tarih";
+"confirmed time" = "onaylanmış zaman";
+"english" = "ingilizce";
+"arabic" = "Arapça";
+"kurdish" = "Kürt";
+"your business" = "senin işin";
+"industry" = "endüstri";
+"distance" = "mesafe";
+"client age" = "müşteri yaşı";
+"attached file" = "ekli dosya";
+"add image" = "resim eklemek";
+"age" = "yaş";
+"No Industery save for you! It may still be inactive" = "Hiçbir endüstri sizin için tasarruf etmiyor! Hala etkin olmayabilir";
+"save" = "kayıt etmek";
+"Your Staff Successfully Updated" = "Personeliniz Başarıyla Güncellendi";
+"staff successfuly created" = "personel başarıyla oluşturuldu";
+"staff successfuly deleted" = "personel başarıyla silindi";
+"Your Service Successfully Updated" = "Hizmetiniz Başarıyla Güncellendi";
+"Map" = "Harita";
+"provider" = "Sağlayıcı";
+"search customer name" = "müşteri adını ara";
+"Change Appointment Status" = "Randevu Durumunu Değiştir";
+"Delete appointment" = "Randevuyu sil";
+"Search Appoinments Date" = "Randevuları Ara Tarih";
+"Select Reserve Time" = "Rezerv Zamanını Seçin";
+"File preview Details" = "Dosya önizleme Ayrıntıları";
+"set data review" = "veri incelemesini ayarla";
+"add member" = "üye ekle";
+"manage services" = "hizmetleri yönet";
+"The application is designed to reduce the waste of time that gets very widespread in our daily lives" = "Uygulama günlük hayatımızda çok yaygınlaşan zaman israfını azaltmak için tasarlanmıştır.";
+
+"Welcome" = "Hoşgeldiniz";
+"SnabulAddress" = "Erbil - Italian Village 1 - Villa 591";
+"share" = "Paylaş";
+
+
+// ---------------------------- QDor Words ----------------------------------
+"Enter your BirthDate" = "Doğum tarihinizi giriniz";
+"Enter your age" = "Yaşınızı girin";
+"accept rules" = "kuralları kabul et";
+
+"Enter your business Title" = "İşletme unvanınızı girin";
+"Enter your city" = "Şehrinizi girin";
+
+"Online Appointment System for Health Centers and Clinics" = "Sağlık Merkezleri ve Klinikler için Online Randevu Sistemi";
+
+
+"The birthdate is not a valid date" = "Doğum tarihi geçerli bir tarih değil";
+
+
+"Enter your business address" = "İşletme adresinizi girin";
+"your industry working hours Successfully Updated" = "sektör çalışma saatleriniz Başarıyla Güncellendi";
+"Birth date" = "Doğum günü";
+"Your Industry Successfully Updated" = "Sektörünüz Başarıyla Güncellendi";
+
+"Enter your Birth Date" = "Doğum tarihinizi giriniz";
+
+"QdorAddress" = "Erbil - Italian Village 1 - Villa 591";
+"share" = "Paylaş";
+
+"signin" = " oturum aç";
+"titlewellcom" = "en iyi doktorlar ve en doğru randevularla ayırt edilir";
+"subwellcom" = "Kayıt ol";
+
+"placefirstselectcountry"="Lütfen önce ülkeyi seçin ";
+"filters" = "Closest to me ";
+
